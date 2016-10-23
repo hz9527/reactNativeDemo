@@ -1,0 +1,29 @@
+{
+"time0002":
+  [
+    {
+      "author":"user1",
+      "time":"2016/10/20 00:12",
+      "content":"1. 原数组不变.toString() .join( ) .concat() .slice()"
+    },
+    {
+      "author":"user3",
+      "time":"2016/10/20 00:40",
+      "content":"2. 原数组变化 .splice() .reverse() .push() .shitf() .pop() .unshitf()"
+    },
+    {
+      "author":"user2",
+      "time":"2016/10/20 00:52",
+      "content":"3. 迭代方法.forEach() .map() .every() .some() .filter()"
+    },
+    {
+      "author":"user5",
+      "time":"2016/10/20 01:12",
+      "content":"四个迭代方法都需要传入一个方法参数，function自带三个参数，item，index，arr分别表示每一项，索引，数组。"
+    },{
+      "author":"user1",
+      "time":"2016/10/20 01:42",
+      "content":"  ● map与filter用于获得一个子数组，函数中也需要使用return map返回返回结果组成的数组，filter则返回返回结果为true组成的数组。从一定角度来看，map返回数组一般是不同于原数组，而filter则是原数组子数组"
+    }
+  ]
+}

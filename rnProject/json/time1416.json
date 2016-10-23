@@ -1,0 +1,24 @@
+{
+"time1416":
+  [
+    {
+      "author":"user5",
+      "time":"2016/10/20 14:12",
+      "content":"首部字段由首部字段名和字段值组成，中间用: 隔开。Content : text/html 字段名对应多个值，值之间用，隔开。Keep-Alive : timeout=15 , max=100 首部字段重复问题：不同浏览器不同，有的解析第一个有的则看后一个。字段名单词首部都大写，多个单词见用-连接。"
+    },
+    {
+      "author":"user3",
+      "time":"2016/10/20 14:40",
+      "content":"通用首部字段：客户端和服务器都会用到的首部字段。请求首部字段：补充了请求的附加条件、客户端信息、响应优先级等信息。响应首部字段：补充了相应的附加信息，也会要求客户端附加额外的内容信息。实体首部字段：针对报文实体使用的附加信息，如资源更新时间等与实体有关的信息。"
+    },
+    {
+      "author":"user4",
+      "time":"2016/10/20 15:12",
+      "content":"flex-direction:row/row-reverse/column/column-reverse"
+    },{
+      "author":"user1",
+      "time":"2016/10/20 15:42",
+      "content":"主轴justify-content:flex-start/flex-end/center/space-between/space-around"
+    }
+  ]
+}

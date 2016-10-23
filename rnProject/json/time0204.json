@@ -1,0 +1,20 @@
+{
+"time0204":
+  [
+    {
+      "author":"user3",
+      "time":"2016/10/20 02:22",
+      "content":"舍入方法ceil round floor Math.ceil(xx) ceil向上取整，floor向下取整，round四舍五入随机数方法Math.random() [0,1)随机数 绝对值Math.abs(xx) 乘方Math.pow(x,y)x的y次幂"
+    },
+    {
+      "author":"user4",
+      "time":"2016/10/20 03:40",
+      "content":"  1. 操作方法.concat() .slice() .substring() .substr()   2. 位置方法.indexOf() .lastIndexOf()   3. trim方法，去掉空格（.trimLeft() .trimRight()）  4. 大小写转换方法.toUppercase() .toLowercase()"
+    },
+    {
+      "author":"user2",
+      "time":"2016/10/20 03:52",
+      "content":"  5. 匹配方法.match() .search() .replace() .split()   6. localeCompare方法，比较字符串方法  7. 字符方法.charAt() .charCodeAt()  8. formCharCode方法，将字符编码转为字符（与charCodeAt相反）  9. html方法（不推荐使用）"
+    }
+  ]
+}

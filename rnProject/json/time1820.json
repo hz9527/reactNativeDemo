@@ -1,0 +1,30 @@
+{
+"time1820":
+  [
+    {
+      "author":"user6",
+      "time":"2016/10/20 18:22",
+      "content":"order:整数，小的在前"
+    },
+    {
+      "author":"user3",
+      "time":"2016/10/20 18:33",
+      "content":"align-self:flex-start/flex-end/center/stretch/baseline"
+    },
+    {
+      "author":"user2",
+      "time":"2016/10/20 18:47",
+      "content":"比较两个值或对象是否相同，类似===，对比对象是比较是否引用的同一个引用"
+    },
+    {
+      "author":"user5",
+      "time":"2016/10/20 19:02",
+      "content":"比如我们去判断函数一个参数是否存在，如果我们事先并不知道它的类型就会很麻烦，粗暴使用if(arg)是不严谨的，因为这个参数可能是0,可能是false等。"
+    },
+    {
+      "author":"user1",
+      "time":"2016/10/20 19:42",
+      "content":"但如果用==又有隐式转换带来的麻烦。如果使用===会发现两个bug NaN===NaN//false -0===+0//true 所以js提供了一个api Object.is(x,y),比===更专业，Object.is(NaN,NaN)//true Object.is(-0,+0) "
+    }
+  ]
+}

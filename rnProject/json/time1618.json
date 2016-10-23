@@ -1,0 +1,30 @@
+{
+"time1618":
+  [
+    {
+      "author":"user6",
+      "time":"2016/10/20 16:12",
+      "content":"侧轴align-items:flex-start/flex-end/center/baseline/stretch"
+    },
+    {
+      "author":"user3",
+      "time":"2016/10/20 16:40",
+      "content":"多列align-content:flex-start/flex-end/center/space-between/space-around/stretch"
+    },
+    {
+      "author":"user2",
+      "time":"2016/10/20 16:52",
+      "content":"flex-warp:nowarp/warp/warp-reverse"
+    },
+    {
+      "author":"user5",
+      "time":"2016/10/20 17:12",
+      "content":"flex-flow:[flex-direction] [flex-warp]"
+    },
+    {
+      "author":"user1",
+      "time":"2016/10/20 17:42",
+      "content":"3.1缩flex-shrink:正整数，默认为1 3.2伸flex-grow:正整数，默认为0 3.3基本大小flex-basis:px/%初始大小 3.4复合flex:[flex-grow] [flex-shrink] [flex-basis]"
+    }
+  ]
+}
